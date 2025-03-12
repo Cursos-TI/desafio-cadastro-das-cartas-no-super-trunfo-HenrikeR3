@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-int main() {
     int main(){
 
         char estado1[20], estado2[20], codigo1[10], codigo2[10], cidade1[20], cidade2[20];
